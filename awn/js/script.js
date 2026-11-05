@@ -1,0 +1,1 @@
+console.log("AWN Platform is running successfully!");
